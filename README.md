@@ -91,6 +91,8 @@ When the script runs, it processes the video and detects objects in real-time. I
    
 <img width="830" alt="acci" src="https://github.com/mr-sparkie/AcciAlert/assets/129316005/8837a65d-18d5-46dd-b97c-01236ad03188">
 
+
+
 2.**Response**
 
  ![alert ](https://github.com/mr-sparkie/AcciAlert/assets/129316005/bed19ad1-8d8d-4fc8-93c5-d4e245ccc34e)
