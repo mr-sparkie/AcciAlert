@@ -138,6 +138,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contributing
 
 We welcome contributions to AcciAlert! Please read the [contribution guidelines](CONTRIBUTING.md) before making any pull requests.
-
 ```
 
