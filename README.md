@@ -2,6 +2,9 @@
 
 AcciAlert is a video processing tool designed to detect accidents in real-time using the YOLO (You Only Look Once) object detection algorithm. This project utilizes OpenCV and YOLO to analyze video footage and alert users when an accident is detected.
 
+![accial](https://github.com/mr-sparkie/AcciAlert/assets/129316005/40dc2fe7-feb6-470e-b05a-337cf6d77395)
+
+
 ## Features
 
 - Real-time accident detection in video streams.
