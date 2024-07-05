@@ -88,7 +88,7 @@ AcciAlert is a video processing tool designed to detect accidents in real-time u
 
 When the script runs, it processes the video and detects objects in real-time. If an accident is detected, it alerts the user and visualizes the detection with a red bounding box. Non-accident objects are shown with green bounding boxes.
 
-![AcciAlert Screenshot](images/alert.jpg)
+![AcciAlert Screenshot](alert.jpg)
 
 ## File Structure
 
