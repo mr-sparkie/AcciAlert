@@ -1,6 +1,3 @@
-Certainly! Below is a template for a `CONTRIBUTING.md` file that you can include in your project. This file will guide potential contributors on how they can contribute to your "AcciAlert" project:
-
-
 # Contributing to AcciAlert
 
 Thank you for considering contributing to AcciAlert! Contributions are welcome from everyone. This document outlines how you can contribute to this project.
