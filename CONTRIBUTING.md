@@ -19,7 +19,7 @@ To start contributing, follow these steps:
 1. **Fork the repository** and clone it locally:
 
    ```sh
-   git clone https://github.com/yourusername/AcciAlert.git
+   git clone https://github.com/mr-sparkie/AcciAlert.git
    cd AcciAlert
    ```
 
